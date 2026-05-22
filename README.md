@@ -1,6 +1,17 @@
-# nmarvis (牛马维斯)
+<div align="center">
 
-> **赛博牛马，为你24小时随时在线搬砖。**
+<h1>nmarvis (牛马维斯)</h1>
+
+![License](https://img.shields.io/badge/License-MIT-blue.svg)
+![Status](https://img.shields.io/badge/状态-疯狂画饼中-orange.svg)
+![Moyu](https://img.shields.io/badge/摸鱼指数-100%25-green.svg)
+![Work](https://img.shields.io/badge/工作效率--999-red.svg)
+
+<p><b>“ 赛博牛马，为你24小时随时在线搬砖 ”</b></p>
+
+</div>
+
+<br>
 
 欢迎来到 `nmarvis` 组织！这是一个致力于为广大“牛马”量身定制的开源生态。如果说腾讯的 Marvis 是你的全能管家，那么 nmarvis 就是你的**最佳打工平替**和**赛博摸鱼掩护者**。
 
