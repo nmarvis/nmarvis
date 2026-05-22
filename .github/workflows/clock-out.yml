@@ -1,0 +1,32 @@
+name: 🍻 牛马周末下线播报
+
+on:
+  workflow_dispatch: 
+  
+  schedule:
+    # 这里的时区是 UTC
+    - cron: '0 10 * * 5'
+
+jobs:
+  moyu-broadcast:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: 🏃 检查打工人电量
+        run: |
+          echo "⚠️ 警告：检测到当前系统（牛马）电量已不足 1%！"
+          sleep 2
+          
+      - name: 🎒 收拾拔线走人
+        run: |
+          echo "收拾双肩包..."
+          echo "关闭钉钉/企业微信..."
+          echo "假装去上个厕所然后直接溜..."
+          sleep 2
+          
+      - name: 🎉 准时下班宣誓
+        run: |
+          echo "========================================="
+          echo "🎉 报告老板，本周牛马电量已耗尽，准时下线！"
+          echo "🚫 周末期间非极其重要事项请勿打扰（重要事项也不想理）。"
+          echo "========================================="
