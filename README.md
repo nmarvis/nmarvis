@@ -29,7 +29,7 @@
 
 ```bash
 # 假装克隆牛马之魂
-git clone [https://github.com/nmarvis/nmarvis.git](https://github.com/nmarvis/nmarvis.git)
+git clone https://github.com/nmarvis/nmarvis.git
 
 # 假装启动摸鱼模式
 cd nmarvis
