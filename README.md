@@ -1,5 +1,9 @@
 <div align="center">
 
+<p>
+  <img src="nmarvis.jpg" alt="nmarvis 牛马维斯 — 赛博牛马 mascot" width="200">
+</p>
+
 <h1>nmarvis (牛马维斯)</h1>
 
 <p>
